@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "esm": "^3.2.25",
+    "gulp": "^4.0.2",
+    "gulp-imagemin": "^2.4.0",
+    "gulp-obfuscate": "^0.2.9",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.69.5"
+  }
+}
